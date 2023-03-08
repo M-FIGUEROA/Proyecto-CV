@@ -1,0 +1,34 @@
+#Principal{
+	border:solid 1px #cccccc;
+	padding: 5px;
+	margin: 0 auto;
+	width: 85%;
+	background: #82baf9;
+}
+
+fieldset{
+	margin-bottom: 10px;
+}
+
+legend{
+	border: solid 1px #b5d5f8;
+	padding: 5px;
+	font-weight: bold;
+	background: #cccccc;
+	border-radius: 15px;
+}
+
+#foto{
+	border: solid 2px #f5f5dc;
+	margin: 10px;
+}
+
+body{
+	background: url(fondo.jpg) ;
+}
+
+a{
+	font-family: Bold cursive;
+	font-weight: 700;
+
+}
